@@ -70,6 +70,9 @@ jupyter notebook Parkinson_disease_classification.ipynb
 
 ## Results
 
+## Contact
+For questions, feel free to reach out via GitHub.
+
 
 
 
