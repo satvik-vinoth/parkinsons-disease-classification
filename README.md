@@ -46,11 +46,11 @@ The CNN model consists of:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/Parkinsons-MRI-Detection.git
+   git clone https://github.com/satvik-vinoth/parkinsons-disease-classification.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Parkinsons-MRI-Detection
+   cd parkinsons-disease-classification
    ```
 3. Run the Jupyter Notebook:
   ```bash
