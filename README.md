@@ -33,3 +33,44 @@ ntua-parkinson-dataset-master/
 │   └── ...
 ```
 
+## Model Architecture
+The CNN model consists of:
+ - Convolutional Layers: Three convolutional layers for feature extraction.
+ - Batch Normalization: Normalizes feature maps to stabilize learning.
+ - MaxPooling: Reduces spatial dimensions.
+ - Dropout: Regularization to prevent overfitting.
+ - Fully Connected Layers: For binary classification.
+ - Sigmoid Activation: Outputs probability for binary labels.
+
+## **How to Use**
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/your-username/Parkinsons-MRI-Detection.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Parkinsons-MRI-Detection
+   ```
+3. Run the Jupyter Notebook:
+  ```bash
+jupyter notebook Parkinson_disease_classification.ipynb
+```
+
+## Outputs
+
+1) Training Logs:
+ - Epoch-wise training and validation loss/accuracy.
+2) Plots:
+ - Loss vs. Epoch.
+ - Accuracy vs. Epoch.
+ - Confusion Matrix.
+ - ROC Curve.
+ - Precision-Recall Curve.
+
+## Results
+
+
+
+
+
