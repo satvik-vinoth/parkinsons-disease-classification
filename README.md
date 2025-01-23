@@ -70,6 +70,9 @@ jupyter notebook Parkinson_disease_classification.ipynb
 
 ## Results
 
+ - Training Accuracy: 98.07 %
+ - Validation Accuracy: 97.35 %
+
 ## Contact
 For questions, feel free to reach out via GitHub.
 
