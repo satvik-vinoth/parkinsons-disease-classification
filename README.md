@@ -9,7 +9,14 @@ This repository contains a Python-based implementation of a convolutional neural
 
 ## Dataset
 
-The repository uses the NTUA Parkinson Dataset with MRI scans of PD and Non-PD patients. The dataset should be organized as follows:
+The dataset used in this project is the NTUA Parkinson Dataset, which includes MRI scans of 150 subjects:
+ - 75 Parkinson's Disease (PD) patients.
+ - 75 healthy controls.
+
+The dataset is organized into two categories: Non PD Patients and PD Patients.
+
+Download the dataset from the following link: [NTUA Parkinson Dataset](https://www.kaggle.com/datasets/shayalvaghasiya/ntua-prakinson)
+
 ```plaintext
 ntua-parkinson-dataset-master/
 ├── Non PD Patients/
